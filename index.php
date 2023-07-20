@@ -17,7 +17,7 @@
 
 	<?php
 
-	require('../Papper-AWEB/views/partials/header.php');
+	require('../CRUD-Reserva de Mesas/views/partials/header.php');
 
 	?>
 
@@ -61,7 +61,7 @@
 
 	<?php
 
-	require('../Papper-AWEB/views/partials/footer.php');
+	require('../CRUD-Reserva de Mesas/views/partials/footer.php');
 
 	?>
 
