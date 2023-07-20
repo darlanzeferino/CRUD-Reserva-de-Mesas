@@ -1,0 +1,15 @@
+body {
+    background-image: url("../img/home3.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.white-text {
+    color: white;
+}
+.btn-custom {
+    color: white;
+    font-weight: bold;
+}

@@ -1,0 +1,36 @@
+body {
+    background-image: linear-gradient(to right, #222222, #222222, #6b4904) !important;
+    color: white;
+}
+
+.navbar {
+    background-image: linear-gradient(to right, #222222, #222222, #6b4904) !important;
+}
+
+.img-principal {
+    margin-top: 0px;
+ 
+}
+
+.logo-principal img {
+  height: 500px;
+  width: 500px;
+ 
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.submenu {
+    margin-top: 80px !important;
+    margin-bottom: 80px !important;
+}
+
+.link-submenu{
+    color: #6b4904 !important;
+}
+
+.link-texto {
+    color: white !important;
+}
